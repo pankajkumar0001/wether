@@ -1,0 +1,18 @@
+input{
+    padding: 5px;
+    width: 300px;
+}
+.buttons{
+    margin: 20px;
+    display: flex;
+    height: 100px;
+    width: 200px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+button{
+    width: 60px;
+    height: 60px;
+    background-color: aquamarine;
+    
+}
